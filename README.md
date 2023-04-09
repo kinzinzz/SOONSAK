@@ -50,7 +50,6 @@
 ![issue](README.assets/issue.png)
 
 ## Project
-<img src="https://user-images.githubusercontent.com/107156650/230763577-ef158927-5775-4e94-a1a5-34d055d5b72e.jpg">
 <img src="https://user-images.githubusercontent.com/107156650/230763578-de605f28-8040-4888-85ce-3bf5cbfd4e84.jpg">
 <img src="https://user-images.githubusercontent.com/107156650/230763579-41e876d6-5207-4f57-8b22-fc6cb9d63a37.jpg">
 <img src="https://user-images.githubusercontent.com/107156650/230763580-6b53163e-53b7-4c80-b17f-74a18e37a2a5.jpg">
